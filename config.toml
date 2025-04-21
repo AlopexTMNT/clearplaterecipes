@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://clearplaterecipes.com/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'Clear Plate Recipes'
 theme = 'lugo'
 
 [params]
