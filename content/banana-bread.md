@@ -5,7 +5,6 @@ tags: ['bread', 'dessert', 'sweet', 'fasting']
 author: martin-chrzanowski
 ---
 
-Not too sweet. Great for when you have friends over for tea.
 
 ## Ingredients
 
