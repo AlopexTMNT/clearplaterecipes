@@ -2,7 +2,7 @@
 title: "Pretzels"
 date: 2025-04-21T22:56:37+03:00
 draft: false 
-author: Izak Halseide
+author: ihalseide
 ---
 
 - ⏲️ Prep time: 40 minutes (not including dough rise time)
