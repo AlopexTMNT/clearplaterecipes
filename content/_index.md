@@ -74,7 +74,6 @@ Founded to provide a simple online cookbook without ads and obese web design.
 
 ## It's easy to contribute!
 
-New recipes can be submitted [on Github](https://github.com/AlopexTMNT/clearplaterecipes).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
+New recipes can be submitted [on Github](https://github.com/AlopexTMNT/clearplaterecipes) or by **e-mail** on clearplaterecipes@proton.me.
 
 Forked from [based.cooking](https://github.com/lukesmithxyz/based.cooking)
