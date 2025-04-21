@@ -5,8 +5,6 @@ date: 2025-01-15
 author: "Georgii Bondarev"
 ---
 
-![Lithuanian Cold Borscht in a bowl](/pix/lithuanian-cold borscht.webp)
-
 Lithuanian Cold Borscht (Lithuanian - “Šaltibarščiai”, Polish - “Chłodnik litewski”, Latvian - “Aukstā zupa”) is a refreshing summer dish, variations of which are popular in Lithuania and neighboring regions. This recipe is most popular in the Kaliningrad region of Russia; in other regions (Lithuania, Poland, Latvia, Ukraine, Belarus) the ingredients may differ.
 
 - ⏲️ Prep time: 2 hours
@@ -33,4 +31,4 @@ Instead of boiled beets, you can grate pickled beets.
 3. Bake or boil the potatoes without peeling.
 4. Boil an egg for each portion of soup.
 5. Place a few large spoonfuls of cooled grated beetroot and vegetable mixture in a bowl. Pour in the cold kefir. Add the cooled beetroot decoction (50-150 ml). If the kefir is too thick, add a little more liquid (the ratio of kefir to beetroot liquid varies from region to region and is adjusted to taste).
-6. Serve with potatoes and with a halved egg and spoonful of thick sour cream on top; sprinkle with chives. If you like, you can make it without the egg (as in the photo).
+6. Serve with potatoes and with a halved egg and spoonful of thick sour cream on top; sprinkle with chives. If you like, you can make it without the egg.
