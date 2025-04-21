@@ -7,7 +7,6 @@ author: yaroslav-smirnov
 
 ![Beef Goulash](/pix/beef-goulash.webp)
 
-Although it takes some time to make, it is actually quite easy to make, and it is a really hearty and delicious recipe, if I do say so myself.
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 90 min
