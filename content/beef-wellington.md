@@ -19,7 +19,7 @@ author: "HiddenSquid321"
 - 7oz of Puff Pastry
 - 2 Egg Yolks Beaten
 
-Side note: Fillet beef is preferred.  It gives the beef wellington a soft, tender and juicy flavour.  Trust me, using fillet is worth it.
+Side note: Fillet beef is preferred.  It gives the beef wellington a soft, tender and juicy flavour.
 
 ## Directions
 
