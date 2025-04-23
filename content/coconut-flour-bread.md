@@ -7,7 +7,7 @@ author: "luis-fernando-maschietto-junior"
 ![keto-coconut-bread](/pix/coconutbread-lufemas.webp)
 
 I created this recipe looking for a bread alternative not using any grains, processed sugar and processed oils.
-It is sitting between bread and cake feel and my wife loved it. I used pasture-raised eggs to my recipe, just because it is more nutritious. But regular eggs should be fine.
+It is sitting between bread and cake feel. I used pasture-raised eggs to my recipe, just because it is more nutritious. But regular eggs should be fine.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 45 min
