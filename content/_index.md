@@ -70,12 +70,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## About this site
 
-Founded to provide a simple online cookbook without ads and obese web design.
+Founded to provide a simple online cookbook without ads.
 
 ## It's easy to contribute!
 
 New recipes can be submitted [on Github](https://github.com/AlopexTMNT/clearplaterecipes) or by **e-mail** on clearplaterecipes@proton.me.
 
 The [Rules](https://github.com/AlopexTMNT/clearplaterecipes/?tab=readme-ov-file#rules-for-submission) for Submitting content!
+
+## Misc
 
 Forked from [based.cooking](https://github.com/lukesmithxyz/based.cooking)
