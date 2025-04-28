@@ -6,7 +6,7 @@ draft: false
 author: "pro-arch-user"
 ---
 
-![red-lentils](static/pix/red-lentils-side-dish.webp)
+![red-lentils](/pix/red-lentils-side-dish.webp)
 
 Can be server with chicken
 
