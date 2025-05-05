@@ -9,9 +9,9 @@ Simple green lentil recipe. Suitable for Lent.
 
 ![Lenten Lentil Curry](/pix/lenten-lentil-curry.webp)
 
-- Prep time: 5 min
-- Cook time: 30-35 min
-- Servings : 2
+- ⏲️ Prep time: 5 min
+- 🍳 Cook time: 30-35 min
+- 🍽️ Servings : 2
 
 ## Ingredients
 
