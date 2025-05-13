@@ -74,7 +74,7 @@ Founded to provide a simple online cookbook without ads.
 
 ## It's easy to contribute!
 
-New recipes can be submitted [on Github](https://github.com/AlopexTMNT/clearplaterecipes) or by **e-mail** at clearplaterecipes@proton.me.
+New recipes can be submitted [on Github](https://github.com/AlopexTMNT/clearplaterecipes).
 
 The [Rules](https://github.com/AlopexTMNT/clearplaterecipes/?tab=readme-ov-file#rules-for-submission) for Submitting content!
 
