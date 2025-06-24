@@ -7,8 +7,6 @@ author: joel-farthing
 
 ![hearty-breakfast-oatmeal-00](/pix/hearty-breakfast-oatmeal-00.webp)
 
-If your Oatmeal isn't Hearty Breakfast Oatmeal... Is it even Oatmeal?
-
 - ⏲️ Prep time: 5 min
 - 🍳Cook time: 10 min
 - 🍽️ Serving: 1 hearty serving
